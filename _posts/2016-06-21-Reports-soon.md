@@ -1,5 +1,5 @@
 ---
-title: Reports soon
+title: Reports-soon
 layout: post
 author: luke.john
 permalink: /reports-soon/
