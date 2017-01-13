@@ -32,7 +32,10 @@ body {
   max-width: 850px;
   padding: 0 10px;
   width: 100%;
-  background
+  background:rbga(35, 50,0.9);
+	boarder-radius: 25px;
+    padding: 20px;
+	boarder-bottom: 1px solid white;
 }
 
 h1, h2, h3, h4, h5, h6 {
