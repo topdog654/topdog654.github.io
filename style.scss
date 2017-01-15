@@ -118,6 +118,18 @@ img {
   max-width: 100%;
 }
 
+table {
+    border-collapse: collapse;
+    width: 100%;
+	border-radius: 25px;
+}
+
+table th, td {
+   border: 1px solid white;
+	background-color:#333399;
+	
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
