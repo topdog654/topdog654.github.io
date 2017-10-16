@@ -8,4 +8,4 @@ published: true
 ---
 testing to see if youtube is going to work
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/6hZ13gSjycQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/6hZ13gSjycQ" frameborder="0" allowfullscreen></iframe>
